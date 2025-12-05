@@ -25,6 +25,9 @@ This is a **test project** designed as a home assignment to demonstrate backend 
 This project demonstrates a mini ChatGPT-style application with Python, Flask, Google Gemini integration, and a Lovable frontend.
 It is a test project for educational purposes, showcasing AI-assisted development, backend-frontend integration, and REST API design.
 
+### Lovable frontend link
+https://lovable.dev/projects/2f973fd8-a86a-4883-9ea4-4fbfbe303fd3
+
 ## Project Objective
 
 The goal of this project is to:
@@ -188,8 +191,7 @@ REST API documentation has been generated using AI and saved in `API_DOCS.md`. I
 
 - How to create Python projects and set up environments
 - Using AI coding assistants effectively
-- Understanding and integrating AI models into a backend
-- Limitations of free tools and the importance of detailed specifications
+- Understood that I need to study this area more thoroughly and continue developing in the direction of using AI-powered tools.
 
 ---
 

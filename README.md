@@ -4,7 +4,7 @@ This is a **test project** designed as a home assignment to demonstrate backend 
 
 ---
 
-![Project preview](assets/chat-preview.jpg)
+![Project preview](backend/assets/chat-preview.jpg)
 
 ## Table of Contents
 

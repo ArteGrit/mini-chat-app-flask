@@ -139,6 +139,7 @@ REST API documentation has been generated using AI and saved in `API_DOCS.md`. I
     ```bash
     python -m venv .venv
     source .venv/bin/activate   # Mac/Linux
+    source backend/.venv/bin/activate   # Mac/Linux - as module
     .venv\Scripts\activate      # Windows
     ```
 
@@ -157,7 +158,7 @@ REST API documentation has been generated using AI and saved in `API_DOCS.md`. I
     ```bash
     python -m backend.app 
     or
-    python -m backend.app --port 5001
+    python -m backend.app --port 5001 #from root directory
     ```
 
     By default, Flask runs on `http://127.0.0.1:5001`.
